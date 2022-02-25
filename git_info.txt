@@ -1,0 +1,10 @@
+git init
+git remote add origin "https://github.com/UdayaSuryaK007/DataEngineering.git"
+git pull origin master
+git branch "Branch_name" --- creating branch in github
+git checkout <branch_name> -- for navigate to branch module
+Add the file in local git folder
+git add <Folder_name> (or) git add .
+git commit -m "msg"
+git push origin <branch_name>
+last step <Go to github account and manage the merge, commit operations 
